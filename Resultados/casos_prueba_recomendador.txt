@@ -1,0 +1,110 @@
+RESULTADOS DE LOS CASOS DE PRUEBA DEL RECOMENDADOR
+Puntaje por carrera = 60% interés + 40% fortaleza ajustada.
+Fortaleza ajustada = 50 + (fortaleza original - 50) * peso; sin fortaleza se usa neutro 50.
+El orden de áreas usa max(afinidad general del área, puntaje de la mejor carrera).
+Las ofertas se deduplican por Grupo_oferta antes de limitar por área.
+Los pesos son criterios de diseño, no relaciones científicamente validadas.
+Las especialidades se verifican completas sobre el top global de ofertas.
+
+OK: fortalezas separadas y correcciones aplicadas en catálogo
+
+======================================================================
+caso_1: Interés educativo alto y fortaleza matemática alta
+OK: especialidad(es) Matemática
+Áreas seleccionadas:
+codigo_area                                area  afinidad_total  puntaje_mejor_carrera  puntaje_orden_area
+       AC01        Ciencias Exactas y Naturales       35.200000                  100.0               100.0
+       AC06 Economia, Administracion y Negocios       66.000000                   92.0                92.0
+       AC05       Educacion y Formacion Docente       70.666667                   80.0                80.0
+Top 5 de ofertas:
+                                 Carrera Especialidad  puntaje_interes  puntaje_fortaleza  puntaje_carrera                                   regla_puntaje
+  Prof. de Educ Secundaria en Matemática   Matemática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+       Prof. de Educ. Sec. en Matemática   Matemática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+ Prof. de Educ. Secundaria en Matemática   Matemática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+Prof. de Educ. Secundaria en Matemáticas   Matemática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+  Prof. de Educ. Superior en Matemáticas   Matemática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+
+======================================================================
+caso_2: Interés educativo alto y fortaleza física alta
+OK: especialidad(es) Física
+Áreas seleccionadas:
+codigo_area                                area  afinidad_total  puntaje_mejor_carrera  puntaje_orden_area
+       AC01        Ciencias Exactas y Naturales       53.600000                  100.0               100.0
+       AC06 Economia, Administracion y Negocios       44.000000                   82.4                82.4
+       AC05       Educacion y Formacion Docente       62.666667                   80.0                80.0
+Top 5 de ofertas:
+                                      Carrera Especialidad  puntaje_interes  puntaje_fortaleza  puntaje_carrera                                   regla_puntaje
+                Prof. de Educ. Sec. en Física       Física            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+          Prof. de Educ. Secundaria en Física       Física            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+Profesorado de Educación Secundaria en Física       Física            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+Profesorado de Educación Secundaria en Física       Física            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+       Prof. de Educ Secundaria en Matemática   Matemática            100.0               60.0             84.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+
+======================================================================
+caso_3: Interés educativo alto y fortaleza biológica alta
+OK: especialidad(es) Biología
+Áreas seleccionadas:
+codigo_area                          area  afinidad_total  puntaje_mejor_carrera  puntaje_orden_area
+       AC01  Ciencias Exactas y Naturales       56.800000                  100.0               100.0
+       AC02   Salud y Ciencias de la Vida       88.000000                   84.0                88.0
+       AC05 Educacion y Formacion Docente       62.666667                   80.0                80.0
+Top 5 de ofertas:
+                                  Carrera Especialidad  puntaje_interes  puntaje_fortaleza  puntaje_carrera                                   regla_puntaje
+          Prof. de Educ. Sec. en Biología     Biología            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+Prof. de Educación Secundaria en Biología     Biología            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+          Prof. de Educ. Sec. en Biología     Biología            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+      Licenciatura en Ciencias Biológicas     Biología             80.0              100.0             88.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+   Tec. Univ en Producción de Bioimágenes     Biología             80.0              100.0             88.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+
+======================================================================
+caso_4: Interés educativo alto sin fortalezas académicas destacadas
+OK: especialidad(es) Educación, Educación Primaria; dispersión 0.0
+Áreas seleccionadas:
+codigo_area                                area  afinidad_total  puntaje_mejor_carrera  puntaje_orden_area
+       AC05       Educacion y Formacion Docente            76.0                   80.0                80.0
+       AC04         Ciencias Sociales y Humanas            68.0                   80.0                80.0
+       AC06 Economia, Administracion y Negocios            68.0                   80.0                80.0
+Top 10 de ofertas:
+                                                             Carrera              Especialidad  puntaje_interes  puntaje_fortaleza  puntaje_carrera                                   regla_puntaje
+                              Lic. en Educación y Nuevas Tecnologías                 Educación            100.0               50.0             80.0           60% interes + 40% neutro explícito 50
+                   PROF. de Educ. Primaria Con O. en Educación Rural        Educación Primaria            100.0               50.0             80.0           60% interes + 40% neutro explícito 50
+Profesorado de Educación Secundaria en Ciencias de la Administración Economía y Administración            100.0               50.0             80.0 60% interes + 40% fortaleza ajustada (peso 0.6)
+Profesorado de Educación Secundaria en Ciencias de la Administración Economía y Administración            100.0               50.0             80.0 60% interes + 40% fortaleza ajustada (peso 0.6)
+Profesorado de Educación Secundaria en Ciencias de la Administración Economía y Administración            100.0               50.0             80.0 60% interes + 40% fortaleza ajustada (peso 0.6)
+Profesorado de Educación Secundaria en Ciencias de la Administración Economía y Administración            100.0               50.0             80.0 60% interes + 40% fortaleza ajustada (peso 0.6)
+                           Prof. de Educación Secundaria en Economía Economía y Administración            100.0               50.0             80.0 60% interes + 40% fortaleza ajustada (peso 0.6)
+          Prof. de Educ. Secundaria en Ciencias de la Administración Economía y Administración            100.0               50.0             80.0 60% interes + 40% fortaleza ajustada (peso 0.6)
+          Prof. de Educ. Secundaria en Ciencias de la Administración Economía y Administración            100.0               50.0             80.0 60% interes + 40% fortaleza ajustada (peso 0.6)
+                Prof. de Educ. Sec. en Ciencias de la Administración Economía y Administración            100.0               50.0             80.0 60% interes + 40% fortaleza ajustada (peso 0.6)
+
+======================================================================
+caso_5: Interés tecnológico alto y fortaleza matemática alta
+OK: especialidad(es) Informática
+Áreas seleccionadas:
+codigo_area                                          area  afinidad_total  puntaje_mejor_carrera  puntaje_orden_area
+       AC03                      Tecnologia e Informatica      100.000000                  100.0          100.000000
+       AC01                  Ciencias Exactas y Naturales       53.600000                  100.0          100.000000
+       AC08 Ambiente, Produccion y Ciencias Agropecuarias       45.333333                   37.6           45.333333
+Top 5 de ofertas:
+                                                           Carrera Especialidad  puntaje_interes  puntaje_fortaleza  puntaje_carrera                                   regla_puntaje
+                                          Lic. en Ciencia de Datos  Informática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+Tecnicatura superior en Ciencia de Datos e Inteligencia Artificial  Informática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+                                               Lic. en Informática  Informática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+                                        Licenciatura en matemática   Matemática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+Tecnicatura superior en ciencia de datos e inteligencia artificial  Informática            100.0              100.0            100.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+
+======================================================================
+caso_6: Perfil educativo con matemática 8 y física 9
+OK: especialidad(es) Física
+Áreas seleccionadas:
+codigo_area                                area  afinidad_total  puntaje_mejor_carrera  puntaje_orden_area
+       AC01        Ciencias Exactas y Naturales       54.400000                   96.0                96.0
+       AC06 Economia, Administracion y Negocios       60.000000                   87.2                87.2
+       AC05       Educacion y Formacion Docente       66.666667                   80.0                80.0
+Top 5 de ofertas:
+                                      Carrera Especialidad  puntaje_interes  puntaje_fortaleza  puntaje_carrera                                   regla_puntaje
+                Prof. de Educ. Sec. en Física       Física            100.0               90.0             96.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+          Prof. de Educ. Secundaria en Física       Física            100.0               90.0             96.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+Profesorado de Educación Secundaria en Física       Física            100.0               90.0             96.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+Profesorado de Educación Secundaria en Física       Física            100.0               90.0             96.0 60% interes + 40% fortaleza ajustada (peso 1.0)
+       Prof. de Educ Secundaria en Matemática   Matemática            100.0               80.0             92.0 60% interes + 40% fortaleza ajustada (peso 1.0)

@@ -1,0 +1,19 @@
+﻿caso,area,afinidad_intereses,afinidad_fortalezas,afinidad_total,codigo_area,puntaje_mejor_carrera,puntaje_orden_area
+caso_1,Ciencias Exactas y Naturales,20.0,58.0,35.2,AC01,100.0,100.0
+caso_1,"Economia, Administracion y Negocios",60.0,75.0,66.0,AC06,92.0,92.0
+caso_1,Educacion y Formacion Docente,86.66666666666667,46.666666666666664,70.66666666666667,AC05,80.0,80.0
+caso_2,Ciencias Exactas y Naturales,40.0,74.0,53.6,AC01,100.0,100.0
+caso_2,"Economia, Administracion y Negocios",40.0,50.0,44.0,AC06,82.4,82.4
+caso_2,Educacion y Formacion Docente,80.0,36.666666666666664,62.666666666666664,AC05,80.0,80.0
+caso_3,Ciencias Exactas y Naturales,60.0,52.0,56.8,AC01,100.0,100.0
+caso_3,Salud y Ciencias de la Vida,80.0,100.0,88.0,AC02,84.0,88.0
+caso_3,Educacion y Formacion Docente,80.0,36.666666666666664,62.666666666666664,AC05,80.0,80.0
+caso_4,Educacion y Formacion Docente,93.33333333333333,50.0,76.0,AC05,80.0,80.0
+caso_4,Ciencias Sociales y Humanas,80.0,50.0,68.0,AC04,80.0,80.0
+caso_4,"Economia, Administracion y Negocios",80.0,50.0,68.0,AC06,80.0,80.0
+caso_5,Tecnologia e Informatica,100.0,100.0,100.0,AC03,100.0,100.0
+caso_5,Ciencias Exactas y Naturales,40.0,74.0,53.6,AC01,100.0,100.0
+caso_5,"Ambiente, Produccion y Ciencias Agropecuarias",40.0,53.333333333333336,45.333333333333336,AC08,37.6,45.333333333333336
+caso_6,Ciencias Exactas y Naturales,40.0,76.0,54.400000000000006,AC01,96.0,96.0
+caso_6,"Economia, Administracion y Negocios",60.0,60.0,60.0,AC06,87.2,87.2
+caso_6,Educacion y Formacion Docente,86.66666666666667,36.666666666666664,66.66666666666667,AC05,80.0,80.0

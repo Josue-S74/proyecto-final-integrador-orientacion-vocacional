@@ -1,0 +1,68 @@
+INFORME DE VALIDACION - PERFILES SINTETICOS
+=======================================================
+
+[Dimensiones]
+  Filas esperadas: 1000 | Filas generadas: 1000
+  Columnas: 23
+
+[Nulos]
+  Total de celdas nulas: 0
+
+[Rangos]
+  fortaleza_matematica: min=1.7 max=10.0 media=6.32
+  fortaleza_lengua: min=1.4 max=10.0 media=6.41
+  fortaleza_biologia: min=1.2 max=10.0 media=6.38
+  fortaleza_historia: min=1.0 max=10.0 media=6.37
+  fortaleza_fisica: min=1.0 max=10.0 media=6.30
+  fortaleza_tecnologia: min=1.2 max=10.0 media=6.32
+  interes_salud: min=1 max=5 media=2.79
+  interes_tecnologia: min=1 max=5 media=2.72
+  interes_educacion: min=1 max=5 media=2.72
+  interes_arte: min=1 max=5 media=2.73
+  interes_social: min=1 max=5 media=2.73
+  interes_ambiente: min=1 max=5 media=2.78
+  preferencia_trabajo_equipo: min=1 max=5 media=3.58
+  preferencia_trabajo_practico: min=1 max=5 media=3.74
+  preferencia_trabajo_autonomo: min=1 max=5 media=3.38
+  preferencia_investigacion: min=1 max=5 media=2.98
+
+[Duplicados]
+  perfil_id unicos: 1000 de 1000
+  Filas identicas (duplicadas): 0
+
+[Distribucion de intereses (frecuencia por valor 1-5)]
+  interes_salud: {1: 191, 2: 286, 3: 190, 4: 206, 5: 127}
+  interes_tecnologia: {1: 220, 2: 274, 3: 190, 4: 195, 5: 121}
+  interes_educacion: {1: 230, 2: 266, 3: 187, 4: 192, 5: 125}
+  interes_arte: {1: 209, 2: 287, 3: 202, 4: 173, 5: 129}
+  interes_social: {1: 214, 2: 275, 3: 199, 4: 190, 5: 122}
+  interes_ambiente: {1: 198, 2: 267, 3: 225, 4: 179, 5: 131}
+
+[Distribucion de departamento_sintetico]
+  Cochinoca: 55
+  El Carmen: 57
+  Dr. Manuel Belgrano: 77
+  Humahuaca: 62
+  Ledesma: 75
+  Palpala: 58
+  Rinconada: 54
+  San Antonio: 50
+  San Pedro: 64
+  Santa Barbara: 62
+  Santa Catalina: 50
+  Susques: 61
+  Tilcara: 100
+  Tumbaya: 69
+  Valle Grande: 48
+  Yavi: 58
+
+[Diversidad]
+  Combinaciones distintas de intereses: 848
+
+RESULTADO: OK
+
+[Reproducibilidad]
+  Misma semilla produce el mismo dataset: True
+
+Semilla: 42 | Registros: 1000 | Fecha: 2026-11-16
+CSV: C:\Users\SOR\Desktop\Proyecto Final Integrador (Ciencia de Datos + Programacion II)\Datos\Procesados\perfiles_estudiantes_sinteticos.csv

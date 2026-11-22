@@ -1,0 +1,82 @@
+#,Carrera,Tipo,Unidad Académica,Sección
+1,Abogacía,Grado,Escuela Superior de Ciencias Jurídicas y Políticas,Grado/Pregrado
+2,Analista Programador Universitario,Pregrado,Facultad de Ingeniería,Grado/Pregrado
+3,Contador Público,Grado,Facultad de Ciencias Económicas,Grado/Pregrado
+4,Enfermería Universitaria,Pregrado,Escuela de Ciencias de la Salud,Grado/Pregrado
+5,Ingeniería Agronómica,Grado,Facultad de Ciencias Agrarias,Grado/Pregrado
+6,Ingeniería de Minas,Grado,Facultad de Ingeniería,Grado/Pregrado
+7,Ingeniería Industrial,Grado,Facultad de Ingeniería,Grado/Pregrado
+8,Ingeniería Informática,Grado,Facultad de Ingeniería,Grado/Pregrado
+9,Ingeniería Química,Grado,Facultad de Ingeniería,Grado/Pregrado
+10,Licenciatura en Administración,Grado,Facultad de Ciencias Económicas,Grado/Pregrado
+11,Licenciatura en Antropología,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+12,Licenciatura en Bromatología,Grado,Facultad de Ciencias Agrarias,Grado/Pregrado
+13,Licenciatura en Ciencia Política,Grado,Escuela Superior de Ciencias Jurídicas y Políticas,Grado/Pregrado
+14,Licenciatura en Ciencias Biológicas,Grado,Facultad de Ciencias Agrarias,Grado/Pregrado
+15,Licenciatura en Ciencias de la Educación,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+16,Licenciatura en Ciencias Geológicas,Grado,Facultad de Ingeniería,Grado/Pregrado
+17,Licenciatura en Comunicación Social,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+18,Licenciatura en Desarrollo Rural,Grado,Facultad de Ciencias Agrarias,Grado/Pregrado
+19,Licenciatura en Economía Política,Grado,Facultad de Ciencias Económicas,Grado/Pregrado
+20,Licenciatura en Educación para la Salud,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+21,Licenciatura en Filosofía,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+22,Licenciatura en Gestión Ambiental,Grado,Facultad de Ciencias Agrarias,Grado/Pregrado
+23,Licenciatura en Historia,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+24,Licenciatura en Letras,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+25,Licenciatura en Sistemas,Grado,Facultad de Ingeniería,Grado/Pregrado
+26,Licenciatura en Tecnología de los Alimentos,Grado,Facultad de Ingeniería,Grado/Pregrado
+27,Licenciatura en Trabajo Social,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+28,Licenciatura en Turismo,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+29,Medicina,Grado,Escuela de Ciencias de la Salud,Grado/Pregrado
+30,Profesorado en Ciencias de la Educación,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+31,Profesorado en Educación para la Salud,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+32,Profesorado en Filosofía,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+33,Profesorado en Historia,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+34,Profesorado en Letras,Grado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+35,Profesorado Universitario en Informática,Grado,Facultad de Ingeniería,Grado/Pregrado
+36,Tecnicatura en Comunicación Convergente Digital,Pregrado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+37,Tecnicatura en Producción de Animales de Granja,Pregrado,Facultad de Ciencias Agrarias,Grado/Pregrado
+38,Tecnicatura en Turismo,Pregrado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+39,Tecnicatura Universitaria en Diseño Integral De Videojuegos,Pregrado,Facultad de Ingeniería,Grado/Pregrado
+40,Tecnicatura Universitaria en Gestión y Producción Editorial,Pregrado,Facultad de Humanidades y Ciencias Sociales,Grado/Pregrado
+41,Tecnicatura Universitaria en Mecanización Agrícola,Pregrado,Facultad de Ciencias Agrarias,Grado/Pregrado
+42,Tecnicatura Universitaria en Perforaciones,Pregrado,Facultad de Ingeniería,Grado/Pregrado
+43,Tecnicatura Universitaria en Transformación de la Producción Agropecuaria,Pregrado,Facultad de Ciencias Agrarias,Grado/Pregrado
+44,Tecnicatura Universitaria Forestal,Pregrado,Facultad de Ciencias Agrarias,Grado/Pregrado
+1,Doctorado en Ciencia y Tecnología de los Alimentos,Posgrado,Facultad de Ingeniería,Posgrado
+2,Doctorado en Ciencias Agronómicas,Posgrado,Facultad de Ciencias Agrarias,Posgrado
+3,Doctorado en Ciencias Económicas,Posgrado,Facultad de Ciencias Económicas,Posgrado
+4,Doctorado en Ciencias Naturales y Ambientales,Posgrado,Facultad de Ciencias Agrarias,Posgrado
+5,Doctorado en Ciencias Sociales,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+6,Doctorado en Comunicación Social,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+7,Doctorado en Gestión e Innovación Universitaria,Posgrado,Inter-Unidades Académicas,Posgrado
+8,Doctorado en Ingeniería Industrial,Posgrado,Facultad de Ingeniería,Posgrado
+9,Doctorado en Políticas Públicas y Desarrollo en Contextos Regionales,Posgrado,Facultad de Ciencias Económicas,Posgrado
+10,Especialización en Ciencia de Datos,Posgrado,Facultad de Ingeniería,Posgrado
+11,Especialización en Costos y Gestión Empresarial,Posgrado,Facultad de Ciencias Económicas,Posgrado
+12,Especialización en Derecho Penal,Posgrado,Escuela Superior de Ciencias Jurídicas y Políticas,Posgrado
+13,Especialización en Docencia Superior,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+14,Especialización en Economía Popular y Procesos Comunitarios,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+15,Especialización en Educación Inclusiva,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+16,Especialización en Educación y Promoción de la Salud,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+17,Especialización en Enseñanza de las Ciencias Económicas,Posgrado,Facultad de Ciencias Económicas,Posgrado
+18,Especialización en Enseñanza de las Ciencias Exactas y Naturales,Posgrado,Facultad de Ingeniería,Posgrado
+19,Especialización en Estadística Aplicada a la Gestión,Posgrado,Facultad de Ciencias Económicas,Posgrado
+20,Especialización en Estudios de Género y Políticas Públicas,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+21,Especialización en Geociencias y Tecnologías del Litio,Posgrado,Universidad Nacional de La Plata,Posgrado
+22,Especialización en Investigación Educativa,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+23,Maestría en Bionegocios y Desarrollo Productivo,Posgrado,Inter-Unidades Académicas,Posgrado
+24,Maestría en Derecho Empresarial,Posgrado,Escuela Superior de Ciencias Jurídicas y Políticas. UNJu.,Posgrado
+25,Maestría en Desarrollo de Zonas Áridas y Semiáridas,Posgrado,Facultad de Ciencias Agrarias,Posgrado
+26,Maestría en Economía Popular y Procesos Comunitarios,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+27,Maestría en Educación Inclusiva,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+28,Maestría en Estadística Aplicada a la Investigación y a la Gestión,Posgrado,Facultad de Ciencias Económicas,Posgrado
+29,Maestría en Estudios de Género y Políticas Públicas,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+30,Maestría en Estudios Literarios de Frontera,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+31,Maestría en Gestión de la Tecnología y la Innovación,Posgrado,Facultad de Ingeniería,Posgrado
+32,Maestría en Planificación y Gestión del Turismo en Destinos Emergentes,Posgrado,Facultad de Ciencias Económicas,Posgrado
+33,Maestría en Políticas Públicas y Desarrollo en Contextos Regionales,Posgrado,Facultad de Ciencias Económicas,Posgrado
+34,Maestría en Problemáticas Contemporáneas de la Comunicación,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+35,Maestría en Producción y Conservación de Arquitecturas con Tierra,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado
+36,Maestría en Riego y Uso Agropecuario del Agua,Posgrado,Facultad de Ciencias Agrarias,Posgrado
+37,Maestría en Teoría y Metodología de las Ciencias Sociales,Posgrado,Facultad de Humanidades y Ciencias Sociales,Posgrado

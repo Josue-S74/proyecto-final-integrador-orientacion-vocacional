@@ -1,0 +1,464 @@
+Carrera,Categoria,Localidad,Institucion,Archivo_origen,Localidad_normalizada,Institucion_normalizada
+Profesorado de Educación Tecnológica,Tecnologia,Abra Pampa,Instituto de Educación Superior N° 1,tecnologia_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Tecnicatura superior en ciencia de datos e inteligencia artificial,Tecnologia,Abra Pampa,Instituto de Educación Superior N° 1,tecnologia_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Profesorado de Educación Secundaria en Informática,Tecnologia,Humahuaca,Instituto de Educación Superior N° 2,tecnologia_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Tecnicatura superior en desarrollo de software,Tecnologia,Humahuaca,Instituto de Educación Superior N° 2,tecnologia_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Tecnicatura superior en mantenimiento industrial,Tecnologia,Maimara,Instituto de Educación Superior N° 2,tecnologia_jujuy.csv,Maimará,Instituto de Educación Superior N° 2
+Tecnicatura superior en mantenimiento industrial,Tecnologia,Susques,Instituto de Educación Superior N° 3,tecnologia_jujuy.csv,Susques,"Instituto de Educación Superior N° 3 ""Escuela Normal Juan Ignacio Gorriti"""
+Profesorado de Educación Secundaria en Tecnologías de Información y la Comunicación,Tecnologia,San Salvador de Jujuy,Instituto de Educación Superior N° 5,tecnologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Tecnológica,Tecnologia,San Salvador de Jujuy,Instituto de Educación Superior N° 5,tecnologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Tecnicatura superior en soporte de infraestructura de tecnología de la información,Tecnologia,San Salvador de Jujuy,Instituto de Educación Superior N° 5,tecnologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Secundaria en Informática,Tecnologia,Perico,Instituto de Educación Superior N° 6,tecnologia_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Profesorado de Educación Secundaria en Tecnologías de Información y la Comunicación,Tecnologia,El Carmen,Instituto de Educación Superior N° 6,tecnologia_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Tecnicatura superior en ciencia de datos e inteligencia artificial,Tecnologia,Perico,Instituto de Educación Superior N° 6,tecnologia_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Profesorado de Educación Secundaria en Tecnologías de Información y la Comunicación,Tecnologia,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,tecnologia_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en soporte de infraestructura de tecnología de la información,Tecnologia,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,tecnologia_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en comunicación social con orientación en medios digitales,Tecnologia,La Mendieta,Instituto de Educación Superior N° 9 “Juana Azurduy”,tecnologia_jujuy.csv,La Mendieta,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en desarrollo de software,Tecnologia,Yuto,Instituto de Educación Superior N° 10,tecnologia_jujuy.csv,Yuto,Instituto de Educación Superior N° 10
+Tecnicatura superior en desarrollo de software,Tecnologia,San Salvador de Jujuy,Instituto de Educación Superior N° 11,tecnologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en ciencia de datos e inteligencia artificial,Tecnologia,San Salvador de Jujuy,Instituto de Educación Superior N° 11,tecnologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Lic. en Ciencia de Datos,Tecnologia,San Salvador de Jujuy,Universidad Siglo 21,tecnologia_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Informática,Tecnologia,San Salvador de Jujuy,Universidad Siglo 21,tecnologia_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic.en Inteligencia Artificial y Robótica,Tecnologia,San Salvador de Jujuy,Universidad Siglo 21,tecnologia_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic.en Seguridad Informática,Tecnologia,San Salvador de Jujuy,Universidad Siglo 21,tecnologia_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Profesorado de Educación Secundaria en Ciencias de la Administración,Negocio Y Administracion,San Salvador de Jujuy,Instituto de Educación Superior N° 5,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Secundaria en Ciencias de la Administración,Negocio Y Administracion,Perico,Instituto de Educación Superior N° 6,negocio_y_administracion_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Profesorado de Educación Secundaria en Economía,Negocio Y Administracion,Monterrico,Instituto de Educación Superior N° 6,negocio_y_administracion_jujuy.csv,Monterrico,Instituto de Educación Superior N° 6
+Tecnicatura superior en logística empresarial,Negocio Y Administracion,Monterrico,Instituto de Educación Superior N° 6,negocio_y_administracion_jujuy.csv,Monterrico,Instituto de Educación Superior N° 6
+Profesorado de Educación Secundaria en Ciencias de la Administración,Negocio Y Administracion,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,negocio_y_administracion_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en comercialización,Negocio Y Administracion,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,negocio_y_administracion_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Educación Secundaria en Ciencias de la Administración,Negocio Y Administracion,Libertador Gral. San Martín,Instituto de Educación Superior N° 10,negocio_y_administracion_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Licenciatura en Dirección de Negocios,Negocio Y Administracion,San Salvador de Jujuy,UCES,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,UCES
+Licenciatura en Marketing,Negocio Y Administracion,San Salvador de Jujuy,UCES,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,UCES
+Licenciatura en Comercio Exterior.,Negocio Y Administracion,San Salvador de Jujuy,UCES,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,UCES
+Licenciatura en Psicología (a distancia),Negocio Y Administracion,San Salvador de Jujuy,UCES,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,UCES
+Actuario,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Contador Publico,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Administración,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Administración Agraria,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Comercialización y Marketing,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Comercio,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Gestión de Recursos Humanos,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Licenciatura en Gestión Turística,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Licenciatura en Logística Global,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Licenciatura en Finanzas,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic en Inteligencía de Negocios Digitales,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. Universitaría En Administración Y Gestión De Políticas Públicas,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. Universitaría en Administración Y Gestión Tributaria,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tecnicatura en Dirección de Equipos de Ventas,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. Universitaria en Gestión Administrativa de Servicios De Salud,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. en Gestión de Empresas Familiares,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec.Universitaria en Gestión y Auditorías Ambientales,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. en Gestión Contable e Impositiva,Negocio Y Administracion,San Salvador de Jujuy,Universidad Siglo 21,negocio_y_administracion_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,La Quiaca,I.E.S. Nº 1,tecnicaturas_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Tecnicatura superior en ciencia de datos e inteligencia artificial,Tecnicaturas,Abra Pampa,I.E.S. Nº 1,tecnicaturas_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Enfermeria,Tecnicaturas,Abra Pampa,I.E.S. Nº 1,tecnicaturas_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Tecnicatura superior en quimica minera sustentable,Tecnicaturas,Abra Pampa,I.E.S. Nº 1,tecnicaturas_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Tecnicatura superior en hemoterapia,Tecnicaturas,Abra Pampa,I.E.S. Nº 1,tecnicaturas_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Tecnicatura superior en mantenimiento industrial,Tecnicaturas,Maimara,I.E.S. Nº 2,tecnicaturas_jujuy.csv,Maimará,Instituto de Educación Superior N° 2
+Tecnicatura superior en Cocinas Regionales y Cultura Alimentaria,Tecnicaturas,Tumbaya,I.E.S. Nº 2,tecnicaturas_jujuy.csv,Tumbaya,Instituto de Educación Superior N° 2
+Tecnicatura superior en turismo,Tecnicaturas,Tilcara,I.E.S. Nº 2,tecnicaturas_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Tecnicatura superior en hotelería,Tecnicaturas,Tilcara,I.E.S. Nº 2,tecnicaturas_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Tecnicatura superior en desarrollo de software,Tecnicaturas,Humahuaca,I.E.S. Nº 2,tecnicaturas_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Tecnicatura superior en gestión de energías renovables,Tecnicaturas,Humahuaca,I.E.S. Nº 2,tecnicaturas_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Tecnicatura superior en mantenimiento industrial,Tecnicaturas,Sede Susques,"I.E.S. Nº 3 - Escuela Normal ""Juan Ignacio Gorriti""",tecnicaturas_jujuy.csv,Sede Susques,"Instituto de Educación Superior N° 3 ""Escuela Normal Juan Ignacio Gorriti"""
+Tecnicatura superior en quimica minera sustentable,Tecnicaturas,Sede San Salvadorde Jujuy,"I.E.S. Nº 3 - Escuela Normal ""Juan Ignacio Gorriti""",tecnicaturas_jujuy.csv,Sede San Salvadorde Jujuy,"Instituto de Educación Superior N° 3 ""Escuela Normal Juan Ignacio Gorriti"""
+Tecnicatura superior en gestión ambiental,Tecnicaturas,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Tecnicatura superior en soporte de infraestructura de tecnología de la información,Tecnicaturas,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Tecnicatura superior en Turismo,Tecnicaturas,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Tecnicatura superior en logística empresarial,Tecnicaturas,Monterrico,I.E.S. Nº 6,tecnicaturas_jujuy.csv,Monterrico,Instituto de Educación Superior N° 6
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,Monterrico,I.E.S. Nº 6,tecnicaturas_jujuy.csv,Monterrico,Instituto de Educación Superior N° 6
+Tecnicatura superior en administración de servicios gastronómicos,Tecnicaturas,El Carmen,I.E.S. Nº 6,tecnicaturas_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Tecnicatura superior en agente sanitario y promotor de la salud,Tecnicaturas,El Carmen,I.E.S. Nº 6,tecnicaturas_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Tecnicatura superior en diseño de indumentaria,Tecnicaturas,El Carmen,I.E.S. Nº 6,tecnicaturas_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Tecnicatura superior en gestión de energías renovables,Tecnicaturas,Perico,I.E.S. Nº 6,tecnicaturas_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Tecnicatura superior en ciencia de datos e inteligencia artificial,Tecnicaturas,Perico,I.E.S. Nº 6,tecnicaturas_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Tecnicatura superior en Cocinas Regionales y Cultura Alimentaria,Tecnicaturas,Perico,I.E.S. Nº 6,tecnicaturas_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Tecnicatura superior en tecnología de los alimentos,Tecnicaturas,Perico,I.E.S. Nº 6,tecnicaturas_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Tecnicatura superior en ciencia de datos e inteligencia artificial,Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en hemoterapia,Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en gestión jurídica,Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en administración publica c/o al desarrollo local,Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en laboratorio de análisis clínico,Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+"Tecnicatura superior en niñez, adolescencia y familia",Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en acompañamiento terapéutico,Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en administración de empresas c/o en pymes,Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura Superior en Gestión Ambiental,Tecnicaturas,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en agente sanitario y promotor de la salud,Tecnicaturas,Perico,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,Perico,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en mecatrónica,Tecnicaturas,Perico,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,Perico,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura Superior en Administración de Empresas con orientación en Pymes,Tecnicaturas,Perico,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,Perico,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en desarrollo de software,Tecnicaturas,San Pedro,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en acompañamiento terapéutico,Tecnicaturas,Libertador,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,Libertador,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en automatización y robótica,Tecnicaturas,Libertador,I.E.S. N° 7 - Populorum Progressio In.Te.La.,tecnicaturas_jujuy.csv,Libertador,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Tecnicatura superior en gestión agropecuaria con orientación al desarrollo local,Tecnicaturas,Palma Sola,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,Palma Sola,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en química agroindustrial,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en administración de servicios de salud,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en comercialización,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en Ciencia de Datos e Inteligencia Artificial,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en gestión e impacto ambiental,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en entrenamiento deportivo,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+"Tecnicatura superior en niñez, adolescencia y familia",Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en agente sanitario y promotor de la salud,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en soporte de infraestructura de tecnología de la información,Tecnicaturas,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en comunicación social con orientación en medios digitales,Tecnicaturas,La Mendieta,"I.E.S. Nº 9 ""Juana Azurduy""",tecnicaturas_jujuy.csv,La Mendieta,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en gestión de la producción agropecuaria,Tecnicaturas,Fraile Pintado,I.E.S. Nº 10,tecnicaturas_jujuy.csv,Fraile Pintado,Instituto de Educación Superior N° 10
+Tecnicatura superior en administración de empresas c/o en comercialización,Tecnicaturas,Fraile Pintado,I.E.S. Nº 10,tecnicaturas_jujuy.csv,Fraile Pintado,Instituto de Educación Superior N° 10
+Tecnicatura superior en gestión de las energías renovables,Tecnicaturas,Libertador,I.E.S. Nº 10,tecnicaturas_jujuy.csv,Libertador,Instituto de Educación Superior N° 10
+Tecnicatura superior en Cocinas Regionales y Cultura Alimentaria,Tecnicaturas,Libertador,I.E.S. Nº 10,tecnicaturas_jujuy.csv,Libertador,Instituto de Educación Superior N° 10
+Tecnicatura superior en desarrollo de software,Tecnicaturas,Yuto,I.E.S. Nº 10,tecnicaturas_jujuy.csv,Yuto,Instituto de Educación Superior N° 10
+Tecnicatura Superior en Agente Sanitario y Promotor de la Salud,Tecnicaturas,Rodeito,I.E.S. Nº 11,tecnicaturas_jujuy.csv,Rodeito,Instituto de Educación Superior N° 11
+Tecnicatura Superior en Acompañamiento Terapéutico,Tecnicaturas,Rodeito,I.E.S. Nº 11,tecnicaturas_jujuy.csv,Rodeito,Instituto de Educación Superior N° 11
+Tecnicatura Superior en Administración de empresas con orientación en comercialización,Tecnicaturas,Pampa Blanca,I.E.S. Nº 11,tecnicaturas_jujuy.csv,Pampa Blanca,Instituto de Educación Superior N° 11
+Tecnicatura Superior en Hotelería,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en Cocinas Regionales y Cultura Alimentaria,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en administración de servicios de salud,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en estadísticas de salud,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en turismo,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en ciencia de datos e inteligencia artificial,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en agente sanitario y promotor de la salud,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en acompañamiento terapéutico,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en laboratorio de análisis clínico,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en desarrollo de software,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Enfermería,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en indumentaria,Tecnicaturas,San Salvador de Jujuy,I.E.S. Nº 11,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en teatro,Tecnicaturas,San Salvador de Jujuy,I.S.A.,tecnicaturas_jujuy.csv,San Salvador de Jujuy,I.S.A.
+Tecnicatura superior en arte regional,Tecnicaturas,Humahuaca,I.S.A.,tecnicaturas_jujuy.csv,Humahuaca,I.S.A.
+Tecnicatura superior en sistemas eléctricos,Tecnicaturas,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy
+Tecnicatura superior en gestión ambiental,Tecnicaturas,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy
+Tecnicatura superior en mecatrónica,Tecnicaturas,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy
+Tecnicatura superior en mecánica automotriz,Tecnicaturas,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy
+Enfermería,Tecnicaturas,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy
+Tecnicatura superior en gestión jurídica,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en hemoterapia,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en acompañamiento terapéutico,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en administración y gestión de servicios de salud,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en esterilización,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+"Tecnicatura superior en niñez, adolescencia y familia",Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en laboratorio de análisis clínico,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en administración financiera,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en desarrollo de software,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en agente sanitario y promotor de la salud,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en preparación física,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en traducción técnico científica en inglés,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en periodismo y nuevas tecnologías,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en cocinas regionales y cultura alimentaria,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en prótesis dental,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en farmacia,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en ciencia de datos e inteligencia artificial,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en acompañante terapéutico,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en desarrollo de software,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en hemoterapia,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en farmacia,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en esterilización,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura en gestión jurídica,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en laboratorio de análisis clínico,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en administración y gestión de servicios de salud,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en preparación física,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en agente sanitario y promotor de la salud,Tecnicaturas,Monterrico,Instituto Superior Nuevo Horizonte,tecnicaturas_jujuy.csv,Monterrico,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Tecnicatura superior en gestión cooperativa,Tecnicaturas,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA
+Tecnicatura superior en turismo,Tecnicaturas,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA
+Tecnicatura superior en administración de empresas c/o en marketing,Tecnicaturas,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA
+Tecnicatura superior en soporte de infraestructura de tecnología de la información,Tecnicaturas,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA
+Tecnicatura superior en desarrollo de software,Tecnicaturas,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA
+Tecnicatura superior en guía de turismo,Tecnicaturas,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA
+Tecnicatura superior en esterilización,Tecnicaturas,San Salvador de Jujuy,Instituto Superior San Expedito,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior San Expedito
+Tecnicatura Superior en Hemoterapia,Tecnicaturas,San Salvador de Jujuy,Instituto Superior San Expedito,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior San Expedito
+Tecnicatura Superior en Higiene y Seguridad en el Trabajo,Tecnicaturas,San Salvador de Jujuy,Instituto Superior San Expedito,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior San Expedito
+Tecnicatura Superior en Agente Sanitario y Promotor de Salud,Tecnicaturas,San Salvador de Jujuy,Instituto Superior San Expedito,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior San Expedito
+Tecnicatura Superior en Mediación Escolar Sociocomunitaria.,Tecnicaturas,San Salvador de Jujuy,Instituto Superior San Expedito,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior San Expedito
+"Tecnicatura superior en gestión integrada en calidad, medio ambiente y seguridad",Tecnicaturas,San Salvador de Jujuy,Instituto de capacitación y desarrollo empresarial ICADE,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de capacitación y desarrollo empresarial ICADE
+Tecnicatura superior en administración de empresas c/o en pymes,Tecnicaturas,San Salvador de Jujuy,Instituto de capacitación y desarrollo empresarial ICADE,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de capacitación y desarrollo empresarial ICADE
+Tecnicatura superior en administración de empresas c/o en recursos humanos,Tecnicaturas,San Salvador de Jujuy,Instituto de capacitación y desarrollo empresarial ICADE,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de capacitación y desarrollo empresarial ICADE
+"Tecnicatura superior en gestión integrada en calidad, medio ambiente y seguridad",Tecnicaturas,Libertador,Instituto de capacitación y desarrollo empresarial ICADE,tecnicaturas_jujuy.csv,Libertador,Instituto de capacitación y desarrollo empresarial ICADE
+Tecnicatura superior en administración de empresas c/o en pymes,Tecnicaturas,Libertador,Instituto de capacitación y desarrollo empresarial ICADE,tecnicaturas_jujuy.csv,Libertador,Instituto de capacitación y desarrollo empresarial ICADE
+Tecnicatura superior en administración de empresas c/o en recursos humanos,Tecnicaturas,Libertador,Instituto de capacitación y desarrollo empresarial ICADE,tecnicaturas_jujuy.csv,Libertador,Instituto de capacitación y desarrollo empresarial ICADE
+Tecnicatura superior en desarrollo de software,Tecnicaturas,San Salvador de Jujuy,Instituto superior Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto superior Jujuy
+Tecnicatura superior en diseño gráfico,Tecnicaturas,San Salvador de Jujuy,Instituto superior Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto superior Jujuy
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,San Salvador de Jujuy,"Instituto superior de Capacitación Aduanera Jujuy, Dr. Guillermo E. Snopek",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto superior de Capacitación Aduanera Jujuy, Dr. Guillermo E. Snopek"
+Tecnicatura superior en régimen aduanero y comercio exterior,Tecnicaturas,San Salvador de Jujuy,"Instituto superior de Capacitación Aduanera Jujuy, Dr. Guillermo E. Snopek",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto superior de Capacitación Aduanera Jujuy, Dr. Guillermo E. Snopek"
+Tecnicatura superior en logística,Tecnicaturas,San Salvador de Jujuy,"Instituto superior de Capacitación Aduanera Jujuy, Dr. Guillermo E. Snopek",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto superior de Capacitación Aduanera Jujuy, Dr. Guillermo E. Snopek"
+Tecnicatura superior en hemoterapia,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Manuel Belgrano,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior Manuel Belgrano
+Tecnicatura de Mecánica Dental,Tecnicaturas,San Salvador de Jujuy,Instituto Superior Manuel Belgrano,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior Manuel Belgrano
+Tecnicatura superior en podología,Tecnicaturas,Libertador,"Instituto Superior ""Melby Claros""",tecnicaturas_jujuy.csv,Libertador,"Instituto Superior ""Melby Claros"""
+Tecnicatura superior en podología,Tecnicaturas,San Salvador de Jujuy,"Instituto Superior ""Melby Claros""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto Superior ""Melby Claros"""
+Tecnicatura superior en hemoterapia,Tecnicaturas,San Salvador de Jujuy,"Instituto Superior ""Melby Claros""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto Superior ""Melby Claros"""
+Tecnicatura superior en instrumentación quirúrgica,Tecnicaturas,San Salvador de Jujuy,"Instituto Superior ""Melby Claros""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto Superior ""Melby Claros"""
+Tecnicatura superior en comercio internacional y régimen aduanero,Tecnicaturas,San Salvador de Jujuy,Instituto Superior DELTA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior DELTA
+Tecnicatura superior en diseño multimedia digital,Tecnicaturas,San Salvador de Jujuy,Instituto Superior DELTA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior DELTA
+Tecnicatura superior en higiene y seguridad en el trabajo,Tecnicaturas,San Salvador de Jujuy,Instituto Superior DELTA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior DELTA
+Tecnicatura superior en recursos humanos,Tecnicaturas,San Salvador de Jujuy,Instituto Superior DELTA,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior DELTA
+Tecnicatura Superior en Guía de Turismo Comunitario,Tecnicaturas,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez"""
+Tecnicatura Superior en Emprendedurismo y Economía Comunitaria,Tecnicaturas,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez"""
+Tecnicatura Superior en Derechos Humanos con Abordaje Integral,Tecnicaturas,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez"""
+Tecnicatura Superior en Gestión y Prevención de Emergencias,Tecnicaturas,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez""",tecnicaturas_jujuy.csv,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez"""
+Tecnicatura superior en podología,Tecnicaturas,San Salvador de Jujuy,Instituto Superior trascender,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior trascender
+Tecnicatura superior en psicomotricidad,Tecnicaturas,San Salvador de Jujuy,Instituto Superior trascender,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto Superior trascender
+Tecnicatura superior en administración publica,Tecnicaturas,San Salvador de Jujuy,Instituto de Administración Publica,tecnicaturas_jujuy.csv,San Salvador de Jujuy,Instituto de Administración Publica
+Tec. Univ en Producción de Bioimágenes,Tecnicaturas,San Salvador de Jujuy,UCASAL - Subsede Jujuy,tecnicaturas_jujuy.csv,San Salvador de Jujuy,UCASAL - Subsede Jujuy
+Tecnicatura Universitaria en Transformación de la Producción Agropecuaria,Tecnicaturas,Tilcara,UNJU,tecnicaturas_jujuy.csv,Tilcara,UNJU
+Tecnicatura Universitaria Forestal,Tecnicaturas,San Pedro de Jujuy,UNJU,tecnicaturas_jujuy.csv,San Pedro de Jujuy,UNJU
+Tecnicatura Universitaria en Producción de Animales de Granja,Tecnicaturas,Monterrico,UNJU,tecnicaturas_jujuy.csv,Monterrico,UNJU
+Tecnicatura Universitaria en Mecanización Agricola,Tecnicaturas,Perico,UNJU,tecnicaturas_jujuy.csv,Perico,UNJU
+Profesorado en Artes Visuales - Orientación en Cerámica,Arte Y Diseño,Humahuaca,Instituto Superior de Arte,arte_y_diseño_jujuy.csv,Humahuaca,Instituto Superior de Arte
+Profesorado en Artes Visuales - Orientación en Pintura,Arte Y Diseño,Humahuaca,Instituto Superior de Arte,arte_y_diseño_jujuy.csv,Humahuaca,Instituto Superior de Arte
+Profesorado de Danza con Orientación en Expresión Corporal,Arte Y Diseño,San Salvador de Jujuy,Instituto Superior de Arte,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Instituto Superior de Arte
+Profesorado de Música,Arte Y Diseño,San Salvador de Jujuy,Instituto Superior de Arte,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Instituto Superior de Arte
+Tecnicatura Superior en Teatro,Arte Y Diseño,San Salvador de Jujuy,"Escuela Provincial de Teatro ""Tito Guerra"" - I.S.A.",arte_y_diseño_jujuy.csv,San Salvador de Jujuy,"Escuela Provincial de Teatro ""Tito Guerra"" - I.S.A."
+Profesorado de Teatro,Arte Y Diseño,San Salvador de Jujuy,Instituto de Educación Superior N° 4,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado en Artes Visuales - Orientación Escultura,Arte Y Diseño,San Salvador de Jujuy,Instituto de Educación Superior N° 4,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado en Artes Visuales - Orientación en Grabado,Arte Y Diseño,San Salvador de Jujuy,Instituto de Educación Superior N° 4,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado en Artes Visuales - Orientación en Fotografía,Arte Y Diseño,San Salvador de Jujuy,Instituto de Educación Superior N° 4,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado en Artes Visuales - Orientación en Cerámica,Arte Y Diseño,San Salvador de Jujuy,Instituto de Educación Superior N° 4,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado en Artes Visuales - Orientación en Pintura,Arte Y Diseño,San Salvador de Jujuy,Instituto de Educación Superior N° 4,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Lic. en Diseño y Animación Digital,Arte Y Diseño,San Salvador de Jujuy,Universidad Siglo 21,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. Universitaria en Diseño y Animación Digital,Arte Y Diseño,San Salvador de Jujuy,Universidad Siglo 21,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. Universitaria en Gestión de Moda,Arte Y Diseño,San Salvador de Jujuy,Universidad Siglo 21,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec.Universitaria en Diseño y Desarrollo de Videojuegos,Arte Y Diseño,San Salvador de Jujuy,Universidad Siglo 21,arte_y_diseño_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Profesorado de Educación Especial - Orientación en Sordos e Hipoacúsicos,Salud Y Psicologia,Abra Pampa,Instituto de Educación Superior N° 1,Salud_y_Psicologia_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Enfermería,Salud Y Psicologia,Abra Pampa,Instituto de Educación Superior N° 1,Salud_y_Psicologia_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Tecnicatura superior en hemoterapia,Salud Y Psicologia,Abra Pampa,Instituto de Educación Superior N° 1,Salud_y_Psicologia_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Profesorado de Educación Secundaria en Psicología,Salud Y Psicologia,San Salvador de Jujuy,Instituto de Educación Superior N° 5,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Especial - Orientación en Discapacidad Neuro-Motora,Salud Y Psicologia,El Carmen,Instituto de Educación Superior N° 6,Salud_y_Psicologia_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Tecnicatura superior en agente sanitario y promotor de la salud,Salud Y Psicologia,El Carmen,Instituto de Educación Superior N° 6,Salud_y_Psicologia_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Profesorado en Educación Especial - Orientación en Discapacidad Intelectual,Salud Y Psicologia,San Salvador de Jujuy,Instituto de Educación Superior N° 7 “Populorum Progressio In.Te.La.”,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Especial - Orientación en Sordos e Hipoacúsicos,Salud Y Psicologia,San Pedro de Jujuy,Instituto de Educación Superior N° 7 “Populorum Progressio In.Te.la.”,Salud_y_Psicologia_jujuy.csv,San Pedro de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Secundaria en Psicología,Salud Y Psicologia,Libertador Gral. San Martín,Instituto de Educación Superior N° 7 “Populorum Progressio In.Te.la.”,Salud_y_Psicologia_jujuy.csv,Libertador General San Martín,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Primaria - Orientación en Educación Hospitalaria y Domiciliaria,Salud Y Psicologia,Palpalá - Río Blanco,Instituto de Educación Superior N° 8,Salud_y_Psicologia_jujuy.csv,Palpalá - Río Blanco,Instituto de Educación Superior N° 8
+Profesorado de Educación Secundaria en Psicología,Salud Y Psicologia,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,Salud_y_Psicologia_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en agente sanitario y promotor de la salud,Salud Y Psicologia,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,Salud_y_Psicologia_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en administración de servicios de salud,Salud Y Psicologia,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,Salud_y_Psicologia_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+"Tecnicatura superior en niñez, adolescencia y familia",Salud Y Psicologia,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,Salud_y_Psicologia_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Educación Especial - Orientación en Discapacidad Neuro-Motora,Salud Y Psicologia,Libertador Gral. San Martín,Instituto de Educación Superior N° 10,Salud_y_Psicologia_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Profesorado de Educación Especial - Orientación en Ciegos y Disminuidos Visuales,Salud Y Psicologia,Libertador Gral. San Martín,Instituto de Educación Superior N° 10,Salud_y_Psicologia_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Enfermería,Salud Y Psicologia,San Salvador de Jujuy,Instituto de Educación Superior N° 11,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en administración de servicios de salud,Salud Y Psicologia,San Salvador de Jujuy,Instituto de Educación Superior N° 11,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en estadísticas de salud,Salud Y Psicologia,San Salvador de Jujuy,Instituto de Educación Superior N° 11,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en acompañamiento terapéutico,Salud Y Psicologia,San Salvador de Jujuy,Instituto de Educación Superior N° 11,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en laboratorio de análisis clínico,Salud Y Psicologia,San Salvador de Jujuy,Instituto de Educación Superior N° 11,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en agente sanitario y promotor de la salud,Salud Y Psicologia,San Salvador de Jujuy,Instituto de Educación Superior N° 11,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Enfermería,Salud Y Psicologia,La Quiaca,"Instituto Superior en Formación, Capacitación y Superior Prof. “Lic. Myriam B. Gloss”",Salud_y_Psicologia_jujuy.csv,La Quiaca,"Instituto Superior en Formación, Capacitación y Superación Profesional ""Lic. Miriam Beatriz Gloss"""
+Enfermería,Salud Y Psicologia,San Vicente,Instituto de Educación Superior “Nuevo Horizonte”,Salud_y_Psicologia_jujuy.csv,San Vicente,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Enfermería,Salud Y Psicologia,San Salvador de Jujuy,"Instituto Superior en Formación, Capacitación y Superación “Myriam Beatriz Gloss”",Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,"Instituto Superior en Formación, Capacitación y Superación Profesional ""Lic. Miriam Beatriz Gloss"""
+Enfermería,Salud Y Psicologia,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte""",Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior ""Nuevo Horizonte"""
+Enfermería,Salud Y Psicologia,San Salvador de Jujuy,Instituto Superior “San Expedito”,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto Superior “San Expedito”
+Enfermería,Salud Y Psicologia,San Salvado de Jujuy,Instituto Superior en Ciencias de la Salud,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto Superior en Ciencias de la Salud
+Tecnicatura de Mecánica Dental,Salud Y Psicologia,San Salvador de Jujuy,Instituto Superior Manuel Belgrano,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto Superior Manuel Belgrano
+Tecnicatura Superior en Hemoterapia,Salud Y Psicologia,San Salvador de Jujuy,Instituto Superior San Expedito,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto Superior San Expedito
+Tecnicatura Superior en Agente Sanitario y Promotor de Salud,Salud Y Psicologia,San Salvador de Jujuy,Instituto Superior San Expedito,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto Superior San Expedito
+Enfermería,Salud Y Psicologia,San Salvador de Jujuy,Instituto Técnico Superior del colegio de Técnicos de Jujuy,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Instituto Técnico Superior del colegio de Técnicos de Jujuy
+Lic en Fonoaudiología,Salud Y Psicologia,San Salvador de Jujuy,UCASAL - Subsede Jujuy,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,UCASAL - Subsede Jujuy
+Lic. en Terapia Ocupacional,Salud Y Psicologia,San Salvador de Jujuy,UCASAL - Subsede Jujuy,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,UCASAL - Subsede Jujuy
+Licenciatura en Bromatología,Salud Y Psicologia,San Salvador de Jujuy,Facultad de Ciencias Agrarias - UNJu,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Facultad de Ciencias Agrarias - UNJu
+Enfermería Universitaria,Salud Y Psicologia,San Salvador de Jujuy,Escuela Superior de Salud - UNJu,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Escuela Superior de Salud - UNJu
+Medicina,Salud Y Psicologia,Libertador General San Martin,Escuela Superior de Salud - UNJu,Salud_y_Psicologia_jujuy.csv,Libertador General San Martín,Escuela Superior de Salud - UNJu
+"Lic. en Higiene, Seguridad y Medio Ambiente del Trabajo",Salud Y Psicologia,San Salvador de Jujuy,Universidad Siglo 21,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Terapia Ocupacional y Desarrollo Humano,Salud Y Psicologia,San Salvador de Jujuy,Universidad Siglo 21,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Licenciatura en Bioinformática,Salud Y Psicologia,San Salvador de Jujuy,Universidad Siglo 21,Salud_y_Psicologia_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Prof. de Educación Secundaria en Matemática,Profesorados,La Quiaca,I.E.S. Nº 1,profesorados_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Prof. de Educación Secundaria en Biología,Profesorados,La Quiaca,I.E.S. Nº 1,profesorados_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Prof. de Ingles,Profesorados,La Quiaca,I.E.S. Nº 1,profesorados_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Prof. de Educación Física,Profesorados,La Quiaca,I.E.S. Nº 1,profesorados_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Prof. de Educ. Primaria con orientación en Educ. Rural,Profesorados,La Quiaca,I.E.S. Nº 1,profesorados_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Prof. de Educ. Sec. en Lengua y Literatura,Profesorados,Abra Pampa,I.E.S. Nº 1,profesorados_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Prof. de Educ. Tecnológica,Profesorados,Abra Pampa,I.E.S. Nº 1,profesorados_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Prof. de Educ. Sec. en Sociología,Profesorados,Abra Pampa,I.E.S. Nº 1,profesorados_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Prof. de Educ. Esp. con orientación en Sordos e Hipoacusicos,Profesorados,Abra Pampa,I.E.S. Nº 1,profesorados_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Prof. de Educ. Sec. en Lengua y Literatura,Profesorados,Tilcara,I.E.S. Nº 2,profesorados_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Prof. de Educ. Sec. en Historia,Profesorados,Tilcara,I.E.S. Nº 2,profesorados_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Prof. de Ingles,Profesorados,Tilcara,I.E.S. Nº 2,profesorados_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Prof. de Educ. Sec. en Geografía,Profesorados,Humahuaca,I.E.S. Nº 2,profesorados_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Prof. de Educ. Sec. en Informática,Profesorados,Humahuaca,I.E.S. Nº 2,profesorados_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+PROF. de Educ. Primaria Con O. en Educación Rural,Profesorados,Humahuaca,I.E.S. Nº 2,profesorados_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Prof. Educ. Sec. en Ciencias Políticas,Profesorados,Humahuaca,I.E.S. Nº 2,profesorados_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Prof. de Educ. Inicial,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 3 - Escuela Normal ""Juan Ignacio Gorriti""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 3 ""Escuela Normal Juan Ignacio Gorriti"""
+Prof. de Educ. Primaria con orientación en EPJA,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 3 - Escuela Normal ""Juan Ignacio Gorriti""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 3 ""Escuela Normal Juan Ignacio Gorriti"""
+Prof. de Educ. Primaria con orientación en Inter cultural Bilingue,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 3 - Escuela Normal ""Juan Ignacio Gorriti""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 3 ""Escuela Normal Juan Ignacio Gorriti"""
+Prof. de Ingles,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Educ. Primaria con orientación en Educación Rural,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Frances,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Portugues,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Artes Visuales con orientación en Pintura,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Artes Visuales con orientación en Grabado,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Artes Visuales con orientación en Cerámica,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Artes Visuales con orientación en Fotografía,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Artes Visuales con orientación en Escultura,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Teatro,Profesorados,San Salvador de Jujuy,I.E.S. Nº 4,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Prof. de Educación Física,Profesorados,Palpala,I.E.S. Nº 4,profesorados_jujuy.csv,Palpalá,Instituto de Educación Superior N° 4
+Prof. de Educ. Física con orientación en Tiempo Libre y Recreación,Profesorados,Palpala,I.E.S. Nº 4,profesorados_jujuy.csv,Palpalá,Instituto de Educación Superior N° 4
+Prof. de Educ. Secundaria en Matemática,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Sec. en Lengua y Literatura,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Sec. en Biología,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Tecnológica,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Física,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Química,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Filosofía,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en en Geografía,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Historia,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Psicología,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Sociología,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Ciencias de la Administración,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Ingles,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en TIC,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Superior en Matemáticas,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Superior en Geografía,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Ciencias Políticas,Profesorados,San Salvador de Jujuy,"I.E.S. Nº 5 ""Jose Eugenio Tello""",profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 5 ""José Eugenio Tello"""
+Prof. de Educ. Secundaria en Matemáticas,Profesorados,Perico,I.E.S. Nº 6,profesorados_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Prof. de Educ. Secundaria en Ciencias de la Administración,Profesorados,Perico,I.E.S. Nº 6,profesorados_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Prof. de Educ. Secundaria en en Informática,Profesorados,Perico,I.E.S. Nº 6,profesorados_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Prof. de Ingles,Profesorados,Perico,I.E.S. Nº 6,profesorados_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Prof. de Educación Secundaria en TIC,Profesorados,El Carmen,I.E.S. Nº 6,profesorados_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Prof. de Educación Inicial,Profesorados,El Carmen,I.E.S. Nº 6,profesorados_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Prof. de Educación Esp. con orientación en Discapacidad Neuromotora,Profesorados,El Carmen,I.E.S. Nº 6,profesorados_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Prof. de Educación Física,Profesorados,Monterrico,I.E.S. Nº 6,profesorados_jujuy.csv,Monterrico,Instituto de Educación Superior N° 6
+Prof. de Educación Secundaria en Economía,Profesorados,Monterrico,I.E.S. Nº 6,profesorados_jujuy.csv,Monterrico,Instituto de Educación Superior N° 6
+Prof. de Educ. Sec. en Lengua y Literatura,Profesorados,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Prof. de Educación Secundaria en Ciencias Políticas,Profesorados,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado en Ciencias Sagradas,Profesorados,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado en Educación Especial - Orientación en Discapacidad Intelectual,Profesorados,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Secundaria en Historia,Profesorados,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Especial - Orientación en Sordos e Hipoacúsicos,Profesorados,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Secundaria en Psicología,Profesorados,San Salvador de Jujuy,I.E.S. N° 7 - Populorum Progressio In.Te.La.,profesorados_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Primaria - Orientación en Educación Hospitalaria y Domiciliaria,Profesorados,Palpala,I.E.S. N° 8,profesorados_jujuy.csv,Palpalá,Instituto de Educación Superior N° 8
+Profesorado de Educación Inicial,Profesorados,Palpala,I.E.S. N° 8,profesorados_jujuy.csv,Palpalá,Instituto de Educación Superior N° 8
+Prof. de Educ Secundaria en Matemática,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Lengua y Literatura,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Biología,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Física,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Química,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Geografía,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Psicología,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Sociología,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Ingles,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Secundaria en TIC,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educación Inicial,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ Sec. en Ciencias de la Administración,Profesorados,San Pedro,"I.E.S. Nº 9 ""Juana Azurduy""",profesorados_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Matemática,Profesorados,Libertador Gral. San Martín,I.E.S. Nº 10,profesorados_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Prof. de Educ. Sec. en Ciencias de la Administración,Profesorados,Libertador Gral. San Martín,I.E.S. Nº 10,profesorados_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Profesorado de Ingles,Profesorados,Libertador Gral. San Martín,I.E.S. Nº 10,profesorados_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Prof. de Educ. Primaria con orientación en Educación Rural,Profesorados,Libertador Gral. San Martín,I.E.S. Nº 10,profesorados_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Prof. de Educ Especial con orientación en Ciegos y Disminuidos Visuales,Profesorados,Libertador Gral. San Martín,I.E.S. Nº 10,profesorados_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Prof. de Educ Sec. en Química,Profesorados,Libertador Gral. San Martín,I.E.S. Nº 10,profesorados_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Prof. de Educ Especial en Discapacidad Neuromotora,Profesorados,Libertador Gral. San Martín,I.E.S. Nº 10,profesorados_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Prof. de Educ Superior en Ciencias de la Educación,Profesorados,Libertador Gral. San Martín,I.E.S. Nº 10,profesorados_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Prof. de Educación Secundaria en Historia,Profesorados,Fraile Pintado,I.E.S. Nº 10,profesorados_jujuy.csv,Fraile Pintado,Instituto de Educación Superior N° 10
+Profesorado de Música,Profesorados,San Salvador de Jujuy,Instituto Superior de Arte,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto Superior de Arte
+Profesorado de Danza con Orientación en Expresión Corporal,Profesorados,San Salvador de Jujuy,Instituto Superior de Arte,profesorados_jujuy.csv,San Salvador de Jujuy,Instituto Superior de Arte
+Profesorado en Artes Visuales - Orientación en Pintura,Profesorados,Humahuaca,Instituto Superior de Arte,profesorados_jujuy.csv,Humahuaca,Instituto Superior de Arte
+Profesorado en Artes Visuales - Orientación en Cerámica,Profesorados,Humahuaca,Instituto Superior de Arte,profesorados_jujuy.csv,Humahuaca,Instituto Superior de Arte
+Tecnicatura superior en guía de turismo comunitario,Turismo Hoteleria Y Cocina,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez""",turismo_hoteleria_y_cocina_jujuy.csv,San Salvador de Jujuy,"Instituto Superior ""Campinta Guazú - Gloria Pérez"""
+Tecnicatura superior en guía de turismo,Turismo Hoteleria Y Cocina,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA,turismo_hoteleria_y_cocina_jujuy.csv,San Salvador de Jujuy,Instituto tecnológico mercantil argentino ITMA
+Tecnicatura superior en cocina regional y cultura alimentaria,Turismo Hoteleria Y Cocina,Tumbaya,Instituto de Educación Superior N° 2,turismo_hoteleria_y_cocina_jujuy.csv,Tumbaya,Instituto de Educación Superior N° 2
+Tecnicatura superior en turismo,Turismo Hoteleria Y Cocina,Tilcara,Instituto de Educación Superior N° 2,turismo_hoteleria_y_cocina_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Tecnicatura superior en hotelería,Turismo Hoteleria Y Cocina,Tilcara,Instituto de Educación Superior N° 2,turismo_hoteleria_y_cocina_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Tecnicatura superior en turismo,Turismo Hoteleria Y Cocina,San Salvador de Jujuy,Instituto de Educación Superior N° 5,turismo_hoteleria_y_cocina_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Tecnicatura superior en Cocinas Regionales y Cultura Alimentaria,Turismo Hoteleria Y Cocina,Perico,Instituto de Educación Superior N° 6,turismo_hoteleria_y_cocina_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Tecnicatura superior en tecnología de los alimentos,Turismo Hoteleria Y Cocina,Perico,Instituto de Educación Superior N° 6,turismo_hoteleria_y_cocina_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Tecnicatura superior en administración de servicios gastronómicos,Turismo Hoteleria Y Cocina,El Carmen,Instituto de Educación Superior N° 6,turismo_hoteleria_y_cocina_jujuy.csv,El Carmen,Instituto de Educación Superior N° 6
+Tecnicatura superior en Cocinas Regionales y Cultura Alimentaria,Turismo Hoteleria Y Cocina,Libertador,Instituto de Educación Superior N° 10,turismo_hoteleria_y_cocina_jujuy.csv,Libertador,Instituto de Educación Superior N° 10
+Tecnicatura superior en Cocinas Regionales y Cultura Alimentaria,Turismo Hoteleria Y Cocina,San Salvador de Jujuy,Instituto de Educación Superior N° 11,turismo_hoteleria_y_cocina_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tecnicatura superior en turismo,Turismo Hoteleria Y Cocina,San Salvador de Jujuy,Instituto de Educación Superior N° 11,turismo_hoteleria_y_cocina_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 11
+Tec. Universitaria en Gestión de Recursos Turísticos,Turismo Hoteleria Y Cocina,San Salvador de Jujuy,Universidad Siglo 21,turismo_hoteleria_y_cocina_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Profesorado de Educación Secundaria en Ciencia Política,Derecho,Humahuaca,Instituto de Educación Superior N° 2,derecho_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Profesorado de Educación Secundaria en Ciencia Política,Derecho,San Salvador de Jujuy,Instituto de Educación Superior N° 7 “Populorum Progressio In.Te.La.”,derecho_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Secundaria en Ciencia Política,Derecho,San Salvador de Jujuy,Instituto de Educación Superior N° 5,derecho_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Abogacía,Derecho,San Salvador de Jujuy,UCASAL - Subsede Jujuy,derecho_jujuy.csv,San Salvador de Jujuy,UCASAL - Subsede Jujuy
+Abogacía,Derecho,San Salvador de Jujuy,Escuela Sup. de Ciencias Jurídicas y Políticas - UNJu,derecho_jujuy.csv,San Salvador de Jujuy,Escuela Sup. de Ciencias Jurídicas y Políticas - UNJu
+Lic. en Ciencia Política,Derecho,San Salvador de Jujuy,Escuela Sup. de Ciencias Jurídicas y Políticas - UNJu,derecho_jujuy.csv,San Salvador de Jujuy,Escuela Sup. de Ciencias Jurídicas y Políticas - UNJu
+Abogacía,Derecho,San Salvador de Jujuy,Universidad Siglo 21,derecho_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Ciencia Política y Gobierno,Derecho,San Salvador de Jujuy,Universidad Siglo 21,derecho_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Criminología y Seguridad,Derecho,San Salvador de Jujuy,Universidad Siglo 21,derecho_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+"Martillero, Corredor Público y Corredor Inmobiliario",Derecho,San Salvador de Jujuy,Universidad Siglo 21,derecho_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Procurador,Derecho,San Salvador de Jujuy,Universidad Siglo 21,derecho_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. en Investigación de la Escena del Crimen,Derecho,San Salvador de Jujuy,Universidad Siglo 21,derecho_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tecnicatura superior en gestión de energías renovables,Medio Ambiente Y Sustentabilidad,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy,medio_ambiente_y_sustentabilidad_jujuy.csv,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy
+"Tecnicatura superior en gestión integrada en calidad, medio ambiente y seguridad",Medio Ambiente Y Sustentabilidad,San Salvador de Jujuy,Instituto de capacitación y desarrollo empresarial ICADE,medio_ambiente_y_sustentabilidad_jujuy.csv,San Salvador de Jujuy,Instituto de capacitación y desarrollo empresarial ICADE
+Tecnicatura superior en gestión ambiental,Medio Ambiente Y Sustentabilidad,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy,medio_ambiente_y_sustentabilidad_jujuy.csv,San Salvador de Jujuy,Instituto técnico superior del colegio de técnicos de Jujuy
+Tecnicatura superior en quimica minera sustentable,Medio Ambiente Y Sustentabilidad,Abra Pampa,Instituto de Educación Superior N° 1,medio_ambiente_y_sustentabilidad_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Tecnicatura superior en gestión de energías renovables,Medio Ambiente Y Sustentabilidad,Humahuaca,Instituto de Educación Superior N° 2,medio_ambiente_y_sustentabilidad_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Tecnicatura superior en quimica minera sustentable,Medio Ambiente Y Sustentabilidad,San Salvador de Jujuy,Instituto de Educación Superior N° 3,medio_ambiente_y_sustentabilidad_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 3 ""Escuela Normal Juan Ignacio Gorriti"""
+Tecnicatura superior en gestión ambiental,Medio Ambiente Y Sustentabilidad,San Salvador de Jujuy,Instituto de Educación Superior N° 5,medio_ambiente_y_sustentabilidad_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Tecnicatura superior en gestión de energías renovables,Medio Ambiente Y Sustentabilidad,Perico,Instituto de Educación Superior N° 6,medio_ambiente_y_sustentabilidad_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Tecnicatura superior en química agroindustrial,Medio Ambiente Y Sustentabilidad,San Pedro,Instituto de Educación Superior N° 9,medio_ambiente_y_sustentabilidad_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en gestión e impacto ambiental,Medio Ambiente Y Sustentabilidad,San Pedro,Instituto de Educación Superior N° 9,medio_ambiente_y_sustentabilidad_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en gestión de la producción agropecuaria,Medio Ambiente Y Sustentabilidad,Fraile Pintado,Instituto de Educación Superior N° 10,medio_ambiente_y_sustentabilidad_jujuy.csv,Fraile Pintado,Instituto de Educación Superior N° 10
+Tecnicatura superior en gestión de las energías renovables,Medio Ambiente Y Sustentabilidad,Libertador,Instituto de Educación Superior N° 10,medio_ambiente_y_sustentabilidad_jujuy.csv,Libertador,Instituto de Educación Superior N° 10
+Licenciatura en Higiene y Seguridad,Medio Ambiente Y Sustentabilidad,San Salvador de Jujuy,UCASAL - Subsede Jujuy,medio_ambiente_y_sustentabilidad_jujuy.csv,San Salvador de Jujuy,UCASAL - Subsede Jujuy
+Licenciatura en Gestión Ambiental,Medio Ambiente Y Sustentabilidad,Humahuaca,UNJU,medio_ambiente_y_sustentabilidad_jujuy.csv,Humahuaca,UNJU
+Licenciatura en Gestión Ambiental,Medio Ambiente Y Sustentabilidad,San Salvador de Jujuy,Universidad Siglo 21,medio_ambiente_y_sustentabilidad_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Profesorado de Educación Primaria - Orientación en Educación Rural,Rural,La Quiaca,Instituto de Educación Superior N° 1,rural_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Profesorado de Educación Primaria - Orientación en Educación Rural,Rural,San Salvador de Jujuy,Instituto de Educación Superior N° 4,rural_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado de Educación Primaria - Orientación en Educación Rural,Rural,Libertador Gral. San Martín,Instituto de Educación Superior N° 10,rural_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Ingeniería Agronómica,Rural,San Salvador de Jujuy y San Pedro de Jujuy,UNJU,rural_jujuy.csv,San Salvador de Jujuy y San Pedro de Jujuy,UNJU
+Licenciatura en Desarrollo Rural,Rural,Abra Pampa,UNJU,rural_jujuy.csv,Abra Pampa,UNJU
+Profesorado de Educación Física,Deportes,La Quiaca,Instituto de Educación Superior N° 1,deportes_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Profesorado de Educación Física,Deportes,Palpalá,Instituto de Educación Superior N° 4,deportes_jujuy.csv,Palpalá,Instituto de Educación Superior N° 4
+Profesorado de Educación Física - Orientación Tiempo Libre y Recreación,Deportes,Palpalá,Instituto de Educación Superior N° 4,deportes_jujuy.csv,Palpalá,Instituto de Educación Superior N° 4
+Profesorado de Educación Física,Deportes,Monterrico,Instituto de Educación Superior N° 6,deportes_jujuy.csv,Monterrico,Instituto de Educación Superior N° 6
+Tecnicatura superior en entrenamiento deportivo,Deportes,San Pedro,Instituto de Educación Superior N° 9,deportes_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Educación Secundaria en Sociología,Ciencias Sociales,Abra Pampa,Instituto de Educación Superior N° 1,ciencias_sociales_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Prof. de Educ. Sec. en Lengua y Literatura,Ciencias Sociales,Abra Pampa,Instituto de Educación Superior N° 1,ciencias_sociales_jujuy.csv,Abra Pampa,Instituto de Educación Superior N° 1
+Profesorado de Educación Secundaria en Ciencia Política,Ciencias Sociales,Humahuaca,Instituto de Educación Superior N° 2,ciencias_sociales_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Profesorado de Educación Secundaria en Geografía,Ciencias Sociales,Humahuaca,Instituto de Educación Superior N° 2,ciencias_sociales_jujuy.csv,Humahuaca,Instituto de Educación Superior N° 2
+Profesorado de Educación Secundaria en Historia,Ciencias Sociales,Tilcara,Instituto de Educación Superior N° 2,ciencias_sociales_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Prof. de Educ. Sec. en Lengua y Literatura,Ciencias Sociales,Tilcara,Instituto de Educación Superior N° 2,ciencias_sociales_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Profesorado de Educación Secundaria en Ciencia Política,Ciencias Sociales,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Prof. de Educ. Sec. en Lengua y Literatura,Ciencias Sociales,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Secundaria en Geografía,Ciencias Sociales,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Secundaria en Filosofía,Ciencias Sociales,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Prof. de Educ. Superior en Geografía,Ciencias Sociales,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Secundaria en Historia,Ciencias Sociales,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Secundaria en Ciencia Política,Ciencias Sociales,San Salvador de Jujuy,Instituto de Educación Superior N° 7 “Populorum Progressio In.Te.La.”,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Secundaria en Historia,Ciencias Sociales,San Pedro de Jujuy,Instituto de Educación Superior N° 7 “Populorum Progressio In.Te.la.”,ciencias_sociales_jujuy.csv,San Pedro de Jujuy,"Instituto de Educación Superior N° 7 ""Populorum Progressio In.Te.La."""
+Profesorado de Educación Secundaria en Geografía,Ciencias Sociales,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,ciencias_sociales_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Lengua y Literatura,Ciencias Sociales,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,ciencias_sociales_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Tecnicatura superior en comunicación social con orientación en medios digitales,Ciencias Sociales,La Mendieta,Instituto de Educación Superior N° 9 “Juana Azurduy”,ciencias_sociales_jujuy.csv,La Mendieta,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Prof. de Educ. Sec. en Sociología,Ciencias Sociales,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,ciencias_sociales_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Educación Secundaria en Historia,Ciencias Sociales,Fraile Pintado,Instituto de Educación Superior N° 10,ciencias_sociales_jujuy.csv,Fraile Pintado,Instituto de Educación Superior N° 10
+Prof. de Educ Superior en Ciencias de la Educación,Ciencias Sociales,Fraile Pintado,Instituto de Educación Superior N° 10,ciencias_sociales_jujuy.csv,Fraile Pintado,Instituto de Educación Superior N° 10
+Abogacía - Modalidad Online,Ciencias Sociales,Palpalá - Rio Blanco,Universidad FASTA,ciencias_sociales_jujuy.csv,Palpalá - Rio Blanco,Universidad FASTA
+Martillero y Corredor Público e Inmobiliario - Modalidad Online,Ciencias Sociales,Palpalá - Rio Blanco,Universidad FASTA,ciencias_sociales_jujuy.csv,Palpalá - Rio Blanco,Universidad FASTA
+Licenciatura en Comunicación Social - Modalidad Online,Ciencias Sociales,Palpalá - Rio Blanco,Universidad FASTA,ciencias_sociales_jujuy.csv,Palpalá - Rio Blanco,Universidad FASTA
+Licenciatura en Publicidad y Narrativas Digitales - Modalidad Online,Ciencias Sociales,Palpalá - Rio Blanco,Universidad FASTA,ciencias_sociales_jujuy.csv,Palpalá - Rio Blanco,Universidad FASTA
+Licenciatura en Gestión de la Comunicación Estratégica - Modalidad Online,Ciencias Sociales,Palpalá - Rio Blanco,Universidad FASTA,ciencias_sociales_jujuy.csv,Palpalá - Rio Blanco,Universidad FASTA
+Licenciatura en Criminalística,Ciencias Sociales,San Salvador de Jujuy,UCASAL - Subsede Jujuy,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,UCASAL - Subsede Jujuy
+Licenciatura en Trabajo Social – Ciclo de Complementación,Ciencias Sociales,San Salvador de Jujuy,UCASAL - Subsede Jujuy,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,UCASAL - Subsede Jujuy
+Lic. en Periodismo,Ciencias Sociales,San Salvador de Jujuy,Universidad Siglo 21,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Publicidad,Ciencias Sociales,San Salvador de Jujuy,Universidad Siglo 21,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Relaciones Internacionales,Ciencias Sociales,San Salvador de Jujuy,Universidad Siglo 21,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Relaciones Publicas e Institucionales,Ciencias Sociales,San Salvador de Jujuy,Universidad Siglo 21,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Lic. en Educación y Nuevas Tecnologías,Ciencias Sociales,San Salvador de Jujuy,Universidad Siglo 21,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+"Tec. en Dirección de Protocolo, Organización de Eventos y Relaciones Públicas",Ciencias Sociales,San Salvador de Jujuy,Universidad Siglo 21,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. Universitaria en Promoción Comunitaria en Niñez y Adolescencia,Ciencias Sociales,San Salvador de Jujuy,Universidad Siglo 21,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. en Relaciones Laborales,Ciencias Sociales,San Salvador de Jujuy,Universidad Siglo 21,ciencias_sociales_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Profesorado de Inglés,Idiomas,La Quiaca,Instituto de Educación Superior N° 1,idiomas_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Profesorado de Inglés,Idiomas,Tilcara,Instituto de Educación Superior N° 2,idiomas_jujuy.csv,Tilcara,Instituto de Educación Superior N° 2
+Profesorado de Educación Primaria - Orientación en Educación Intercultural Bilingüe,Idiomas,San Salvador de Jujuy,Instituto de Educación Superior N° 3,idiomas_jujuy.csv,San Salvador de Jujuy,"Instituto de Educación Superior N° 3 ""Escuela Normal Juan Ignacio Gorriti"""
+Profesorado de Francés,Idiomas,San Salvador de Jujuy,Instituto de Educación Superior N° 4,idiomas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado de Inglés,Idiomas,San Salvador de Jujuy,Instituto de Educación Superior N° 4,idiomas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado de Portugués,Idiomas,San Salvador de Jujuy,Instituto de Educación Superior N° 4,idiomas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 4
+Profesorado de Inglés,Idiomas,San Salvador de Jujuy,Instituto de Educación Superior N° 5,idiomas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Inglés,Idiomas,Perico,Instituto de Educación Superior N° 6,idiomas_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Profesorado de Inglés,Idiomas,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,idiomas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Inglés,Idiomas,Libertador Gral. San Martín,Instituto de Educación Superior N° 10,idiomas_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Profesorado de Educación Secundaria en Matemática,Ciencias Exactas,La Quiaca,Instituto de Educación Superior N° 1,ciencias_exactas_jujuy.csv,La Quiaca,Instituto de Educación Superior N° 1
+Profesorado de Educación Secundaria en Física,Ciencias Exactas,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Superior en Matemática,Ciencias Exactas,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Secundaria en Química,Ciencias Exactas,San Salvador de Jujuy,Instituto de Educación Superior N° 5,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Instituto de Educación Superior N° 5
+Profesorado de Educación Secundaria en Matemática,Ciencias Exactas,Perico,Instituto de Educación Superior N° 6,ciencias_exactas_jujuy.csv,Perico,Instituto de Educación Superior N° 6
+Profesorado de Educación Secundaria en Matemática,Ciencias Exactas,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,ciencias_exactas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Educación Secundaria en Física,Ciencias Exactas,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,ciencias_exactas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Educación Secundaria en Química,Ciencias Exactas,San Pedro,Instituto de Educación Superior N° 9 “Juana Azurduy”,ciencias_exactas_jujuy.csv,San Pedro,"Instituto de Educación Superior N° 9 ""Juana Azurduy"""
+Profesorado de Educación Secundaria en Matemática,Ciencias Exactas,Libertador Gral. San Martín,Instituto de Educación Superior N° 10,ciencias_exactas_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Profesorado de Educación Secundaria en Química,Ciencias Exactas,Libertador Gral. San Martín,Instituto de Educación Superior N° 10,ciencias_exactas_jujuy.csv,Libertador General San Martín,Instituto de Educación Superior N° 10
+Licenciatura en Ciencias Biológicas,Ciencias Exactas,San Salvador de Jujuy,UNJU,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,UNJU
+Licenciatura en Hidrocarburos y Geociencias,Ciencias Exactas,San Salvador de Jujuy,Universidad Siglo 21,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Licenciatura en Informática,Ciencias Exactas,San Salvador de Jujuy,Universidad Siglo 21,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Licenciatura en matemática,Ciencias Exactas,San Salvador de Jujuy,Universidad Siglo 21,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Licenciatura en Ambiente y Energías Renovables,Ciencias Exactas,San Salvador de Jujuy,Universidad Siglo 21,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. Universitaria en Hidrocarburos y Geociencia,Ciencias Exactas,San Salvador de Jujuy,Universidad Siglo 21,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
+Tec. en Higiene y Seguridad Laboral,Ciencias Exactas,San Salvador de Jujuy,Universidad Siglo 21,ciencias_exactas_jujuy.csv,San Salvador de Jujuy,Universidad Siglo 21
